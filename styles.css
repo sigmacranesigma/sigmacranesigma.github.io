@@ -17,7 +17,7 @@ h5 {
 div {
     justify-self: center;
 }
-nav {
+.navbar {
     border: 0px;
     border-style: none;
     overflow: hidden;
