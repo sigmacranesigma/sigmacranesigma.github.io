@@ -28,7 +28,7 @@ div {
     background-color: black;
     color: white;
     padding: 15px 20px;
-
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     display: flex;             
     align-items: center;      
     justify-content: space-between; 
