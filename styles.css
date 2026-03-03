@@ -24,14 +24,15 @@ div {
 .navbar {
     position: sticky;
     top: 0;
-    background-color: #3498db;
+    background-color: black;
     color: white;
     padding: 15px 20px;
 
-    display: flex;              /* magic */
-    align-items: center;        /* vertical alignment */
-    justify-content: space-between; /* pushes items apart */
+    display: flex;             
+    align-items: center;      
+    justify-content: space-between; 
 }
+
 body{
     margin: 0px;
 }
