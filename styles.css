@@ -24,27 +24,13 @@ div {
 .navbar {
     position: sticky;
     top: 0;
-
-    border: 0px;
-    border-style: none;
-    
-    padding: 20px;
-    
-
-    width: 100%;
+    background-color: #3498db;
+    color: white;
     padding: 15px 20px;
 
-    text-align: center;
-
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
-
-    color: white;
-    background-color: black;
-
-    display:flex;
-    align-items:center;
-    justify-content: space-between;
-    
+    display: flex;              /* magic */
+    align-items: center;        /* vertical alignment */
+    justify-content: space-between; /* pushes items apart */
 }
 body{
     margin: 0px;
