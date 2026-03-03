@@ -44,8 +44,10 @@ body{
     border: none;
     padding: 8px 12px;
     cursor: pointer;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 .navbar span {
     color: white;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
